@@ -1,0 +1,163 @@
+[
+    {
+      "id": 1,
+      "name": "Women's T-shirt",
+      "category": "Women's Clothing",
+      "title": "Comfortable cotton t-shirt",
+      "price": 299.99,
+      "rating": { "rate": 4.5, "count": 20 },
+      "image": "https://shopsencillo.in/cdn/shop/files/51_800x.png?v=1690882351",
+      "description": "This soft and breathable cotton t-shirt is perfect for daily wear, offering comfort and style in a variety of colors and sizes."
+    },
+    {
+      "id": 2,
+      "name": "Women's Jacket",
+      "category": "Women's Clothing",
+      "title": "Stylish winter jacket",
+      "price": 1499.99,
+      "rating": { "rate": 4.7, "count": 50 },
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR4DXIEsqUM6AsHRlwoF4ACl54S--eoYvAzcpd2kuoAslkc04iXYFJPkG69UrR3IpCh_9LPHfo8qcE_90j6RDMnFjRTL3SLKnHaUxtNrVx9ScuwHxYW9mZx&usqp=CAE",
+      "description": "Stay warm and chic with this stylish winter jacket, designed to keep you cozy during colder months. Ideal for layering over sweaters and shirts."
+    },
+    {
+      "id": 3,
+      "name": "Women's Jeans",
+      "category": "Women's Clothing",
+      "title": "Slim-fit denim jeans",
+      "price": 799.99,
+      "rating": { "rate": 4.3, "count": 30 },
+      "image": "https://img.guess.com/image/upload/c_limit,dpr_1.5,f_auto,h_532,q_auto,w_400/c_limit,h_532,w_400/v1/NA/Style/ECOMM/QBVA38D4ON0-LWA-ALT2?pgw=1",
+      "description": "These slim-fit denim jeans combine comfort and style, perfect for a casual look or a night out. Made from high-quality denim, they fit like a glove."
+    },
+    {
+      "id": 4,
+      "name": "Women's Hoodie",
+      "category": "Women's Clothing",
+      "title": "Warm and cozy hoodie",
+      "price": 999.99,
+      "rating": { "rate": 4.8, "count": 40 },
+      "image": "https://m.media-amazon.com/images/I/612xs9ZeZ-L._AC_UY1100_.jpg",
+      "description": "This warm and cozy hoodie is your perfect companion for chilly days. With a soft fleece interior, it's ideal for lounging or casual outings."
+    },
+    {
+      "id": 5,
+      "name": "Women's Casual Shoes",
+      "category": "Women's Footwear",
+      "title": "Comfortable casual shoes",
+      "price": 1299.99,
+      "rating": { "rate": 4.2, "count": 25 },
+      "image": "https://image.made-in-china.com/202f0j00jrAqLNCsrEzP/Comfortable-Casual-Ladies-Shoes-with-Lace-up-Design.webp",
+      "description": "These comfortable casual shoes feature a modern lace-up design, perfect for everyday wear. Lightweight and breathable, they offer all-day comfort."
+    },
+    {
+      "id": 6,
+      "name": "Women's Sneakers",
+      "category": "Women's Footwear",
+      "title": "Sporty sneakers for daily wear",
+      "price": 2499.99,
+      "rating": { "rate": 4.5, "count": 70 },
+      "image": "https://assets.ajio.com/medias/sys_master/root/20230612/dbqT/648722dd42f9e729d737e986/-473Wx593H-466263684-grey-MODEL.jpg",
+      "description": "These sporty sneakers are designed for both comfort and style, ideal for walking, jogging, or everyday activities. The breathable material keeps your feet cool and fresh."
+    },
+    {
+      "id": 7,
+      "name": "Women's Shorts",
+      "category": "Women's Clothing",
+      "title": "Comfortable summer shorts",
+      "price": 499.99,
+      "rating": { "rate": 4.6, "count": 60 },
+      "image": "https://m.media-amazon.com/images/I/818Khj-mbxS.jpg",
+      "description": "Perfect for warmer weather, these summer shorts are made from soft, breathable fabric for ultimate comfort. Pair with a t-shirt or tank top for a laid-back look."
+    },
+    {
+      "id": 8,
+      "name": "Women's Sweater",
+      "category": "Women's Clothing",
+      "title": "Soft wool sweater",
+      "price": 1599.99,
+      "rating": { "rate": 4.7, "count": 15 },
+      "image": "https://images-cdn.ubuy.co.in/644c2a3a788cf57d065f27ba-quyuon-womens-sweater-dresses-winter.jpg",
+      "description": "This cozy wool sweater offers the perfect blend of warmth and softness, making it a must-have for chilly days. Its versatile design pairs well with any casual outfit."
+    },
+    {
+      "id": 9,
+      "name": "Women's Blazer",
+      "category": "Women's Clothing",
+      "title": "Classic fit blazer",
+      "price": 4999.99,
+      "rating": { "rate": 4.3, "count": 50 },
+      "image": "https://m.media-amazon.com/images/I/31la0yZAKrL._AC_SY1000_.jpg",
+      "description": "This tailored blazer is perfect for formal occasions or adding a polished touch to your work wardrobe. Its classic cut and sleek design make it a versatile choice for any business setting."
+    },
+    {
+      "id": 10,
+      "name": "Women's Belt",
+      "category": "Women's Accessories",
+      "title": "Elegant leather belt",
+      "price": 799.99,
+      "rating": { "rate": 4.4, "count": 35 },
+      "image": "https://m.media-amazon.com/images/I/71ab3IeKrrL._AC_SL1500_.jpg",
+      "description": "This elegant leather belt adds a touch of sophistication to any outfit. With its classic design and high-quality leather, it's perfect for both casual and formal wear."
+    },
+    {
+      "id": 11,
+      "name": "Women's Cap",
+      "category": "Women's Accessories",
+      "title": "Stylish snapback cap",
+      "price": 499.99,
+      "rating": { "rate": 4.0, "count": 45 },
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvnz3lLwtPa4fueBXT0-iu5TdV-4C7wYgeMwH6BVJONoHPgGQ9sE-9tjgzpt72R5g4nHk&usqp=CAU",
+      "description": "This trendy snapback cap is perfect for casual outings or outdoor activities. With its adjustable fit and stylish design, it's a must-have accessory for your wardrobe."
+    },
+    {
+      "id": 12,
+      "name": "Women's Casual Shirt",
+      "category": "Women's Clothing",
+      "title": "Breathable cotton shirt",
+      "price": 799.99,
+      "rating": { "rate": 4.4, "count": 60 },
+      "image": "https://5.imimg.com/data5/SELLER/Default/2022/12/PU/ZB/WU/181659218/women-casual-shirt-500x500.jpeg",
+      "description": "This breathable cotton shirt is ideal for a laid-back yet stylish look. Perfect for casual wear, it pairs well with jeans or skirts for a relaxed, comfortable outfit."
+    },
+    {
+      "id": 13,
+      "name": "Women's Polo Shirt",
+      "category": "Women's Clothing",
+      "title": "Classic polo shirt",
+      "price": 1099.99,
+      "rating": { "rate": 4.5, "count": 50 },
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQRtCu0ub7R0bUEtEC3ui7p3CXZHtf_IoMGC0z4GywPbaayYw84k97guoN9HxNIxwtmOcMSfDY7lK0egH1ImmKPKZgoZncpSGc-C0rWLRjULDgRcG8-t4vuWadtFjpBiIyrceNcSetonQ&usqp=CAc",
+      "description": "A timeless classic, this polo shirt combines casual elegance with a comfortable fit. Perfect for both casual and semi-formal occasions, it's an easy wardrobe staple."
+    },
+    {
+      "id": 14,
+      "name": "Women's Heels",
+      "category": "Women's Footwear",
+      "title": "Elegant high heels",
+      "price": 1999.99,
+      "rating": { "rate": 4.6, "count": 65 },
+      "image": "https://images.meesho.com/images/products/371496198/akubl_512.webp",
+      "description": "These elegant high heels are designed to elevate your style, perfect for formal events or a night out. With a comfortable design, they provide both height and comfort."
+    },
+    {
+      "id": 15,
+      "name": "Women's Handbag",
+      "category": "Women's Accessories",
+      "title": "Chic leather handbag",
+      "price": 2599.99,
+      "rating": { "rate": 4.8, "count": 100 },
+      "image": "data:image/jpeg;base64,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",
+      "description": "This chic leather handbag is the perfect accessory for any outfit. Spacious yet compact, it has a sleek design and enough room to carry your essentials in style."
+    },
+    {
+      "id": 16,
+      "name": "Women's Earrings",
+      "category": "Women's Accessories",
+      "title": "Dazzling silver earrings",
+      "price": 799.99,
+      "rating": { "rate": 4.7, "count": 30 },
+      "image": "https://m.media-amazon.com/images/I/413hzg4foHL._AC_UF1000,1000_QL80_.jpg",
+      "description": "Add a touch of glamour to any outfit with these dazzling silver earrings. Their elegant design makes them a perfect addition to both casual and formal occasions."
+    }
+  ]
+  
